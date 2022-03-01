@@ -4,8 +4,8 @@
 <br>
 <div align="center">
 <a href="https://github.com/Doglaum">
-<img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doglaum&layout=compact&langs_count=7&theme=dracula"/>
-<img align="center" height="100px" src="https://github-readme-stats.vercel.app/api?username=Doglaum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doglaum&layout=compact&langs_count=7&theme=dracula"/>
+<img align="center" height="130px" src="https://github-readme-stats.vercel.app/api?username=Doglaum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   <hr>
   <div align="center">
