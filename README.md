@@ -10,10 +10,11 @@
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Doglaum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   <div >
-   <img src="https://user-images.githubusercontent.com/90656335/156193361-bb681d66-3f74-4ce5-a0b1-c5ff5e0f514a.png" alt="" width="25px">
-   <img src="https://user-images.githubusercontent.com/90656335/156193488-2a69d636-109a-4bdb-ab2d-e129f3505ffe.png" alt="" width="25px">
-   <img src="https://user-images.githubusercontent.com/90656335/156193584-6e6315c7-4e77-4a7d-be47-77f21d840af5.png" alt="" width="25px">
-   <img src="https://user-images.githubusercontent.com/90656335/156193642-4d4fbbc8-3dc9-4c9d-bbd5-d43918ce3060.png" alt="" width="25px">
+    <h3><<b>Tencnologias que estou estudando:</b></h3>
+   <img src="https://user-images.githubusercontent.com/90656335/156193361-bb681d66-3f74-4ce5-a0b1-c5ff5e0f514a.png" alt="" width="30px" align="center">
+   <img src="https://user-images.githubusercontent.com/90656335/156193488-2a69d636-109a-4bdb-ab2d-e129f3505ffe.png" alt="" width="30px" align="center">
+   <img src="https://user-images.githubusercontent.com/90656335/156193584-6e6315c7-4e77-4a7d-be47-77f21d840af5.png" alt="" width="30px" align="center">
+   <img src="https://user-images.githubusercontent.com/90656335/156193642-4d4fbbc8-3dc9-4c9d-bbd5-d43918ce3060.png" alt="" width="30px" align="center">
   </div>
 <br>
 <br>
