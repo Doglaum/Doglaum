@@ -1,12 +1,7 @@
-🙋‍♂️-<h1><b>Olá, me chamo Douglas Martins e esse é meu repositório 
-📚-Estou estudando desenvolvimento de sistemas</b></h1>
+<h2><b>🙋‍♂️-Olá, me chamo Douglas Martins e esse é meu repositório</b></h2>
+<h2><b>📚-Estou estudando desenvolvimento de sistemas</b></h2>
 
-
-
-
-
-
-Entre em contato comigo:
+<h3>Entre em contato comigo:>/h3>
 <div>
 <a href = "heredouglas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/douglas--martins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
