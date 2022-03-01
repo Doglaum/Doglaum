@@ -1,4 +1,4 @@
-<h2><b>🙋‍♂️-Olá, bem vindo ao meu repositório no GitHub, tento colocar o máximo de novos aprendizados aqui como projetos sólidos, estou em busca de constante evolução e gosto de sempre estar apredendo alguma coisa nova</b></h2>
+<h2><b>🙋‍♂️-Olá, bem vindo ao meu repositório no GitHub, <p>tento colocar o máximo de novos aprendizados aqui como projetos sólidos, estou em busca de constante evolução e gosto de sempre estar apredendo alguma coisa nova</p></b></h2>
 <h2><b>📚-Cursando técnico em desenvolvimento de sistemas</b></h2>
 <br>
 <br>
