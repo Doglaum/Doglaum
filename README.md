@@ -1,5 +1,5 @@
 <h2><b>🙋‍♂️-Olá, me chamo Douglas Martins e esse é meu repositório</b></h2>
-<h2><b>📚-Estou estudando desenvolvimento de sistemas</b></h2>
+<h2><b>📚-Cursando técnico em desenvolvimento de sistemas</b></h2>
 <br>
 <br>
 <div align="center">
