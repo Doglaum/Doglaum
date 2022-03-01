@@ -2,11 +2,15 @@
 <p>📑-tento colocar o máximo de novos aprendizados aqui como projetos sólidos, estou em busca de constante evolução e gosto de apredender coisas novas</p>
 <h2><b>📚-Cursando técnico em desenvolvimento de sistemas</b></h2>
 <p>Conhecimentos adquiridos no curso até o momento:
-- Lógica da programação;
-- HTML, CSS e JavaScript Básico;
-- Orientação a Objetos JavaSript;
-- Introdução a tecnologia da informação e comunicação;
-- Banco de dados PostgreeSQL e Oracle.</p>
+  <ul>
+<li>- Lógica da programação;</li>
+<li>- HTML, CSS e JavaScript Básico;</li>
+<li>- Orientação a Objetos JavaSript;</li>
+<li>- Introdução a tecnologia da informação e comunicação;</li>
+<li>- Banco de dados PostgreeSQL e Oracle.</li>
+    </ul>
+    </p>
+
 <br>
 <br>
 <div align="center">
