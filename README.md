@@ -1,14 +1,13 @@
 <h2><b>🙋‍♂️-Olá, me chamo Douglas Martins e esse é meu repositório</b></h2>
 <h2><b>📚-Estou estudando desenvolvimento de sistemas</b></h2>
-
-
-
-
+<br>
+<br>
 <div>
 <a href="https://github.com/Doglaum">
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doglaum&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Doglaum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  <hr>
   <div align="center">
     <h3 align="center"><b>Tencnologias que estou estudando:</b></h3>
    <img src="https://user-images.githubusercontent.com/90656335/156193361-bb681d66-3f74-4ce5-a0b1-c5ff5e0f514a.png" alt="JavaScript" width="40px" align="center">
