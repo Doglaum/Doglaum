@@ -5,7 +5,7 @@
   <ul>
 <li>- Lógica da programação;</li>
 <li>- HTML, CSS e JavaScript;</li>
-<li>- Orientação a Objetos JavaSript;</li>
+<li>- Orientação a Objetos JavaScript;</li>
 <li>- TypeScript e Angular</li>
 <li>- Banco de dados PostgreeSQL e Oracle.</li>
     </ul>
