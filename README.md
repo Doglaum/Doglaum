@@ -17,9 +17,8 @@
 <a href="https://github.com/Doglaum">
 <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doglaum&layout=compact&langs_count=7&theme=dracula"/>
 <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Doglaum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<hr>
-  </div>
-  
+</div>
+  <hr>
   <div align="center">
    <h3 align="center"><b>Tencnologias que estou estudando:</b></h3>
    <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="Angular" width="40px" align="center">
