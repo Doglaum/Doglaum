@@ -4,7 +4,7 @@
 <p color="red">Conhecimentos adquiridos no curso até o momento:
   <ul>
 <li>- Lógica da programação;</li>
-<li>- HTML, CSS e JavaScript;</li>
+<li>- JavaScript, HTML e CSS;</li>
 <li>- Orientação a Objetos JavaScript;</li>
 <li>- TypeScript e Angular</li>
 <li>- Banco de dados PostgreeSQL e Oracle.</li>
