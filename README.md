@@ -20,7 +20,7 @@
 </div>
   <hr>
   <div align="center">
-   <h3 align="center"><b>Tencnologias que estou estudando:</b></h3>
+   <h3 align="center"><b>Tencnologias:</b></h3>
    <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="Angular" width="40px" align="center">
    <img src="https://user-images.githubusercontent.com/90656335/156193361-bb681d66-3f74-4ce5-a0b1-c5ff5e0f514a.png" alt="JavaScript" width="40px" align="center">
    <img src="https://user-images.githubusercontent.com/90656335/156193488-2a69d636-109a-4bdb-ab2d-e129f3505ffe.png" alt="TypeScript" width="40px" align="center">
