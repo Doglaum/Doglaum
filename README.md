@@ -16,6 +16,7 @@
    <img src="https://user-images.githubusercontent.com/90656335/156193488-2a69d636-109a-4bdb-ab2d-e129f3505ffe.png" alt="TypeScript" width="40px" align="center">
    <img src="https://user-images.githubusercontent.com/90656335/156193584-6e6315c7-4e77-4a7d-be47-77f21d840af5.png" alt="HTML" width="40px" align="center">
    <img src="https://user-images.githubusercontent.com/90656335/156193642-4d4fbbc8-3dc9-4c9d-bbd5-d43918ce3060.png" alt="CSS" width="40px" align="center">
+   <img src="https://img2.gratispng.com/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766ab2d98b8.1809687115335031471868.jpg" alt="CSS" width="40px" align="center">
   </div>
 <br>
 <br>
