@@ -1,15 +1,5 @@
 <h2><b>🙋‍♂️-Olá, bem vindo ao meu repositório no GitHub</b></h2>
-<p>Tento colocar o máximo de novos aprendizados aqui como projetos sólidos, estou em busca de constante evolução e gosto de apredender coisas novas</p>
-<h2><b>📚-Cursando técnico em desenvolvimento de sistemas</b></h2>
-<p color="red">Conhecimentos adquiridos no curso até o momento:
-  <ul>
-<li>- Lógica da programação;</li>
-<li>- JavaScript, HTML e CSS;</li>
-<li>- Orientação a Objetos JavaScript;</li>
-<li>- TypeScript e Angular</li>
-<li>- Banco de dados PostgreeSQL e Oracle.</li>
-    </ul>
-    </p>
+<p>Tento colocar o máximo de novos aprendizados aqui como projetos sólidos, estou em busca de constante evolução e gosto de aprender coisas novas</p>
 
 <br>
 <br>
