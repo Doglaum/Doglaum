@@ -1,5 +1,4 @@
 <h2><b>🙋‍♂️-Olá, bem vindo ao meu repositório no GitHub</b></h2>
-<p>Tento colocar o máximo de novos aprendizados aqui como projetos sólidos, estou em busca de constante evolução e gosto de aprender coisas novas</p>
 
 <br>
 <br>
